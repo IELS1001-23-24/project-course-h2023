@@ -1,0 +1,4 @@
+.vscode/*
+.arduino/output
+.wokwi/
+!.vscode/extensions.json
